@@ -30,7 +30,6 @@ With this sensor you need to add the 4k7 resistor between VCC (red) and DATA (ye
 <p align="center">
   <img src="ESPwithDS18B20.jpg" width="300">
   <img src="ESPwithDS18B20side.jpg" width="300">
-  *Connect DS18B20 sensor to ESP32.*
 </p>
 
 **3. Add the code**
