@@ -28,9 +28,8 @@ DS18B20 - my version has 3 wires: red - white - yellow
 With this sensor you need to add the 4k7 resistor between VCC (red) and DATA (yellow).
 
 <p align="center">
-  <img src="ESPwithDS18B20.jpg" width="400">
-  *Connect DS18B20 sensor to ESP32.*
-  <img src="ESPwithDS18B20side.jpg" width="400">
+  <img src="ESPwithDS18B20.jpg" width="300">
+  <img src="ESPwithDS18B20side.jpg" width="300">
   *Connect DS18B20 sensor to ESP32.*
 </p>
 
