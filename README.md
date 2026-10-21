@@ -16,6 +16,11 @@ DHT22 - I'm using the version with 4 pins. They should be connected as follows:
 - pin 4 (right); GND connect to GND
 It is advised to add a 4k7 resistor between VCC and DATA, but it will probably also work without.
 
+<p align="center">
+  <img src="ESPwithDHT22.jpg" width="400">
+  *Connect DHT22 sensor to ESP32.*
+</p>
+
 DS18B20 - my version has 3 wires: red - white - yellow
 - red    :  connect to VCC
 - white  :  connect to pin 23
