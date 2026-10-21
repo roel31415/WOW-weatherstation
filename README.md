@@ -27,7 +27,7 @@ DS18B20 - my version has 3 wires: red - white - yellow
 With this sensor you need to add the 4k7 resistor between VCC (red) and DATA (yellow).
 
 <p align="center">
-  <img src="ESPwithDS18B20.jpg" width="300">
+  <img src="ESPwithDHT22.jpg" width="400">
 </p>
 
 **3. Add the code**
