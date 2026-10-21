@@ -63,9 +63,13 @@ Make sure to copy following data elements somewhere (for example in notepad)
 
 **5. Fill in the credentials**
 Now go back to the Arduino IDE and fill in the missing credentials
-- line 18  authKey (the authentication key you chose)
-- line 21  name (a name you can give to the ESP board, it will be shown on the OLED but not on WOW. Keep is short < 5 characters)
-- line 22  siteID (the long ID you copied from the WOW dashboard)
+- authKey (the authentication key you chose)
+- name (a name you can give to the ESP board, it will be shown on the OLED but not on WOW. Keep is short < 5 characters)
+- siteID (the long ID you copied from the WOW dashboard)
+
+<p align="center">
+  <img src="wowsettings.png" width="400">
+</p>
 
 Compile, upload and test.
 
