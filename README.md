@@ -18,7 +18,6 @@ It is advised to add a 4k7 resistor between VCC and DATA, but it will probably a
 
 <p align="center">
   <img src="ESPwithDHT22.jpg" width="400">
-  *Connect DHT22 sensor to ESP32.*
 </p>
 
 DS18B20 - my version has 3 wires: red - white - yellow
@@ -29,7 +28,6 @@ With this sensor you need to add the 4k7 resistor between VCC (red) and DATA (ye
 
 <p align="center">
   <img src="ESPwithDS18B20.jpg" width="300">
-  <img src="ESPwithDS18B20side.jpg" width="300">
 </p>
 
 **3. Add the code**
