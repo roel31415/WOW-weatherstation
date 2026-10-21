@@ -74,6 +74,7 @@ Now go back to the Arduino IDE and fill in the missing credentials
 Compile, upload and test.
 
 **6. Test**
+
 a. Connect the ESP to Wi-Fi
 - Connect the ESP weather station to an USB power source (computer of via USB power supply).
 - The ESP32 first checks if he can connect to wifi. If not, he will set up a local wifi network called _WOW-WeatherStation_.
