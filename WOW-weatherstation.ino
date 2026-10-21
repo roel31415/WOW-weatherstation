@@ -17,7 +17,7 @@
 
 const char* authKey = "yourKey";
 
-// Erasmus_Creascola_HeiligGraf_0
+// CHG0
 const char* name = "yourname";
 const char* siteID =  "yoursiteID";
 
