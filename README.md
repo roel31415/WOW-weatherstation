@@ -1,4 +1,4 @@
-Below is the step-by-step description how to make your own weatherstation and publish the results to the public website https://wow.meteo.be.
+Below is the step-by-step description how to make your own weatherstation and publish the results to the public website https://wow.meteo.be. This was created as part of the Erasmus+ exchange between Heilig Graf Turnhout, Belgium and Creascola Budaors, Hungary.
 
 **1. Gather the hardware parts**
 
