@@ -1,5 +1,7 @@
 # Build your own ESP32 WOW Weather Station
 
+**Author: Roel Truyen**
+
 This guide explains step by step how to build your own weatherstation and publish the results to the public website https://wow.meteo.be. This was created as part of the Erasmus+ exchange between Heilig Graf Turnhout, Belgium and Creascola Budaors, Hungary.
 
 **1. Gather the hardware parts**
